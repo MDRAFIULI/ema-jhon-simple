@@ -1,0 +1,12 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    border: 1px solid gray;
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.form-container input {
+    display: block;
+}
